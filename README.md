@@ -1,20 +1,18 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=270&section=header&text=CS%20study&fontSize=90)
 
 <div align=center><h1>📚RULE📚</h1></div>
-
-  <div align=center>
+<div align=center>
   <h3>기본은 매일 백준 3문제 풀기로 한다.</h3>
   <h3>일주일에 한 번은 결석 가능하다.</h3>
   <h3>단, 이를 어길 시 벌금 500원이 과금되므로 주의해야한다.</h3>
   <h3>시험기간에는 프로그래밍 문법 개념 공부등으로도 대체 가능하다.</h3>
-  </div>
-
+</div>
 <div align=center><h1>📚File Form📚</h1></div>
 
-  <div align=center>
+<div align=center>
   <h3>[문제번호] 문제명.py</h3>
   <h3>ipynb의 형식으로도 상관이 없지만 py형식으로 부탁드립니다.</h3>
-  </div>
+</div>
   
 <div align=center><h1>📚Commit Form📚</h1></div>
 
