@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=270&section=header&text=CS%20study&fontSize=90)
+<div align=center>![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=270&section=header&text=CS%20study&fontSize=90)</div>
 
 <div align=center><h1>📚RULE📚</h1></div>
 <div align=center>
