@@ -24,7 +24,7 @@
 <div align=center><h1>📚Commit Form📚</h1></div>
 
   <div align=center>
-  <h3>월/일.py</h3>
+  <h3>월/일</h3>
   </div>
   
 
