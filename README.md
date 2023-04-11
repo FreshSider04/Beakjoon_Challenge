@@ -30,4 +30,4 @@
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=freshsider)](https://solved.ac/profile/freshsider)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=freshsider)](https://solved.ac/profile/freshsider)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiyul570)](https://solved.ac/profile/freshsider)
