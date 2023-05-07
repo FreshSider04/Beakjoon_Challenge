@@ -1,3 +1,3 @@
-n, b = input().split()
+n, b = input().rstrip().split()
 
-print(int(n, b))
+print(int(n, int(b)))
