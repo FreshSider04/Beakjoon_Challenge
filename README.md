@@ -7,19 +7,13 @@
   <h3>단, 이를 어길 시 벌금 500원이 과금되므로 주의해야합니다.</h3>
   <h3>시험기간에는 프로그래밍 문법 개념 공부등으로도 대체 가능합니다.</h3>
 </div>
-<div align=center><h1>📚File Form📚</h1></div>
+<div align=center><h1>📚File AND floder Form📚</h1></div>
 
 <div align=center>
-  <h3>[문제번호] 문제명.py</h3>
+  <h3>폴더 :: X월 X일</h3>
+  <h3>파일명 :: [문제번호] 문제명.py</h3>
   <h3>ipynb의 형식으로도 상관이 없지만 py형식으로 부탁드립니다.</h3>
 </div>
-
-<div align=center><h1>📚결석 확인서📚</h1></div>
-
-  <div align=center>
-  <h3>결석.md :: 내용은 결석 사유</h3>
-  <h3>은 아래와 같습니다.</h3>
-  </div>
   
 <div align=center><h1>📚Commit Form📚</h1></div>
 
