@@ -1,17 +1,14 @@
-n = int(input())
+N = int(input())
+cnt = N
 
-remove_result = []
-result = []
-for _ in range(n):
+for i in range(N):
     word = input()
-    remover = list(word)
-    for value in remover:
-        if value not in remove_result:
-            remove_result.append(value)
-    result_word = ''.join(i for i in remove_result)
-    result.append(result_word)
-    remove_result = []
+    for j in range(0, len(word)-1):
+        if word[j] == word[j+1]:
+            pass
+        elif word[j] in word[j+1:]:
+            cnt -= 1
+            break
 
-set(result)
-print(len(result))
+print(cnt)
 
