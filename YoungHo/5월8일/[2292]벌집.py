@@ -1,3 +1,4 @@
+# 수의 입력
 n = int(input())
 
 nums_pileup = 1
